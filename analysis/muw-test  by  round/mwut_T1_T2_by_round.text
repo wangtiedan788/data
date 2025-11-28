@@ -1,0 +1,89 @@
+all_data1$round_number: 1
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  df$s1.p2_points[df$teatment == "T1"] and df$s1.p2_points[df$teatment == "T2"]
+W = 90, p-value = 0.7906
+alternative hypothesis: true location shift is not equal to 0
+
+--------------------------------------------------------------------------- 
+all_data1$round_number: 2
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  df$s1.p2_points[df$teatment == "T1"] and df$s1.p2_points[df$teatment == "T2"]
+W = 123.5, p-value = 0.04375
+alternative hypothesis: true location shift is not equal to 0
+
+--------------------------------------------------------------------------- 
+all_data1$round_number: 3
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  df$s1.p2_points[df$teatment == "T1"] and df$s1.p2_points[df$teatment == "T2"]
+W = 88, p-value = 0.8685
+alternative hypothesis: true location shift is not equal to 0
+
+--------------------------------------------------------------------------- 
+all_data1$round_number: 4
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  df$s1.p2_points[df$teatment == "T1"] and df$s1.p2_points[df$teatment == "T2"]
+W = 89.5, p-value = 0.8151
+alternative hypothesis: true location shift is not equal to 0
+
+--------------------------------------------------------------------------- 
+all_data1$round_number: 5
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  df$s1.p2_points[df$teatment == "T1"] and df$s1.p2_points[df$teatment == "T2"]
+W = 59, p-value = 0.1905
+alternative hypothesis: true location shift is not equal to 0
+
+--------------------------------------------------------------------------- 
+all_data1$round_number: 6
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  df$s1.p2_points[df$teatment == "T1"] and df$s1.p2_points[df$teatment == "T2"]
+W = 94.5, p-value = 0.6207
+alternative hypothesis: true location shift is not equal to 0
+
+--------------------------------------------------------------------------- 
+all_data1$round_number: 7
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  df$s1.p2_points[df$teatment == "T1"] and df$s1.p2_points[df$teatment == "T2"]
+W = 64, p-value = 0.2906
+alternative hypothesis: true location shift is not equal to 0
+
+--------------------------------------------------------------------------- 
+all_data1$round_number: 8
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  df$s1.p2_points[df$teatment == "T1"] and df$s1.p2_points[df$teatment == "T2"]
+W = 51, p-value = 0.08474
+alternative hypothesis: true location shift is not equal to 0
+
+--------------------------------------------------------------------------- 
+all_data1$round_number: 9
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  df$s1.p2_points[df$teatment == "T1"] and df$s1.p2_points[df$teatment == "T2"]
+W = 50, p-value = 0.07437
+alternative hypothesis: true location shift is not equal to 0
+
+--------------------------------------------------------------------------- 
+all_data1$round_number: 10
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  df$s1.p2_points[df$teatment == "T1"] and df$s1.p2_points[df$teatment == "T2"]
+W = 70, p-value = 0.4581
+alternative hypothesis: true location shift is not equal to 0
+
