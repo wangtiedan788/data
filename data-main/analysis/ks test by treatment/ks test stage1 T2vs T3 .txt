@@ -1,3 +1,0 @@
-data:  all_data_P1_stage1$s1.p2_points[all_data_P1_stage1$treatment == "T2"] and all_data_P1_stage1$s1.p2_points[all_data_P1_stage1$treatment == "T3"]
-D = 0.069231, p-value = 0.9144
-alternative hypothesis: two-sided
