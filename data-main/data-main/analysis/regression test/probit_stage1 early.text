@@ -1,0 +1,22 @@
+
+Call:
+glm(formula = accept.stage1 ~ AI + Transfer + s1.p2_points, family = binomial(link = "probit"), 
+    data = subset(all_data_P2, late == 0))
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)    
+(Intercept)  -3.11217    0.80461  -3.868  0.00011 ***
+AI            0.29890    0.37329   0.801  0.42329    
+Transfer     -0.26321    0.34020  -0.774  0.43912    
+s1.p2_points  0.11041    0.02011   5.491 3.99e-08 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 141.499  on 194  degrees of freedom
+Residual deviance:  98.262  on 191  degrees of freedom
+AIC: 106.26
+
+Number of Fisher Scoring iterations: 7
+

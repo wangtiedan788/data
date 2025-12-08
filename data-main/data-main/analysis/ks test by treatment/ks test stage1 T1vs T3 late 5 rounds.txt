@@ -1,0 +1,5 @@
+Exact two-sample Kolmogorov-Smirnov test
+
+data:  stage1_ai_late$s1.p2_points and stage1_human_late$s1.p2_points
+D = 0.26154, p-value = 0.01047
+alternative hypothesis: two-sided

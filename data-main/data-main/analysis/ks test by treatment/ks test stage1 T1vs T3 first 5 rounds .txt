@@ -1,0 +1,5 @@
+Exact two-sample Kolmogorov-Smirnov test
+
+data:  T1_all_early and T3_all_early
+D = 0.15385, p-value = 0.2518
+alternative hypothesis: two-sided

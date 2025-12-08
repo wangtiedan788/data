@@ -1,0 +1,19 @@
+
+lm(formula = s2.p1_points ~ AI + Transfer + round_number, data = P2_stage2)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-34.473  -6.252   3.535   7.863  30.969 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  34.50529    5.73506   6.017 2.54e-07 ***
+AI           -1.40999    4.97219  -0.284    0.778    
+Transfer     -0.93383    4.59841  -0.203    0.840    
+round_number -0.00801    0.77053  -0.010    0.992    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 14.05 on 47 degrees of freedom
+Multiple R-squared:  0.004356,	Adjusted R-squared:  -0.0592 
+F-statistic: 0.06854 on 3 and 47 DF,  p-value: 0.9764

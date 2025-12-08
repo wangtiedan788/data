@@ -1,0 +1,5 @@
+Exact two-sample Kolmogorov-Smirnov test
+
+data:  P2_stage2_T2_T3$s2.p1_points[P2_stage2_T2_T3$treatment == "T2"] and P2_stage2_T2_T3$s2.p1_points[P2_stage2_T2_T3$treatment == "T3"]
+D = 0.11485, p-value = 0.9382
+alternative hypothesis: two-sided

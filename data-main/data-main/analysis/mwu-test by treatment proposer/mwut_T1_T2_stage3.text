@@ -1,0 +1,7 @@
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  mwut_T1_stage3 and mwut_T2_stage3
+W = 149, p-value = 0.3725
+alternative hypothesis: true location shift is not equal to 0
+
